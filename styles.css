@@ -1,0 +1,79 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  /* Estilos del encabezado */
+  header {
+    background-color:brown;
+    padding: 20px;
+    color: #fff;
+    bottom: 10%;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  /* Estilos de las secciones */
+  section {
+    color: blanchedalmond;
+    padding: 50px;
+  }
+  
+  section h2 {
+    color:blanchedalmond
+  }
+  
+  section ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  /* Estilos del formulario de contacto */
+  form input,
+  form textarea,
+  form button {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  form button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer
+    }
+   
+    body{
+        background-image: url(https://e0.pxfuel.com/wallpapers/521/132/desktop-wallpaper-fitness-and-background-gym-black.jpg);
+        size-adjust: initial;
+    }
+    #inicio{
+       text-size-adjust: 50%;
+    }
+    
+    p{
+        color: brown;
+    }
+    
+    footer{
+        text-align: right;
+    }
+    
